@@ -1,9 +1,9 @@
 @import "rouge-base16-dark";
 @import "default_colors";
 
-$body-background: $cod-grey !default;
-$body-foreground: $gallery !default;
-$header: $conifer !default;
+//$body-background: $cod-grey !default;
+//$body-foreground: $gallery !default;
+//$header: $conifer !default;
 $blockquote-color: $silver-chalice !default;
 $blockquote-border: $dove-grey !default;
 $container-max-width: 1000px;
@@ -53,7 +53,7 @@ li {
 */
 
 header {
-  background: rgba(0, 0, 0, 0.1);
+  //background: rgba(0, 0, 0, 0.1);
   width: 100%;
   border-bottom: 1px dashed $conifer; //header;
   padding: 20px 0;
